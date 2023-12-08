@@ -1,5 +1,5 @@
 # TO-DOO-iOS-App
-TO DOOO, is a basic to do list app created for iOS platforms. It is created to help users get their life organized and keep them on track.
+TO DOOO, is a to do list app created for iOS platforms. It is created to help users get their life organized and keep them on track.
 With this app, users could list on tasks they wanted to complete through out the day, or even the future.
 Users could input a due date for each task that they have created, and they could keep track on which task that they have completed by giving a checkmark at the right side of the task.
 
